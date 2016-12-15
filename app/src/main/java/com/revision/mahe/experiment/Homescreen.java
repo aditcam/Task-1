@@ -11,7 +11,7 @@ public class Homescreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homescreen);
-        Toast.makeText(getApplicationContext(), "Hello there !!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Hello there my name is aditya !!", Toast.LENGTH_SHORT).show();
 
 
     }
